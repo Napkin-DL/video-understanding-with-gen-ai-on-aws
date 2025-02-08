@@ -1,0 +1,10 @@
+faiss-cpu==1.8.0
+ImageHash==4.3.1
+imageio-ffmpeg==0.5.1
+json_repair==0.30.2
+matplotlib==3.9.2
+moviepy==1.0.3
+opencv-python-headless==4.10.0.84
+opensearch-py==2.4.2
+webvtt-py==0.5.1
+termcolor
